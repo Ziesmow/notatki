@@ -1,0 +1,1 @@
+plowe to bedzie source based packet manager który będzie instalował i kompilował dla jednego user (i tak większość komputerrów ma jednego usera) przytym translator z ebuildów oraz pax czyli kombajn do tworzenia zaczynków kodu 

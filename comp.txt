@@ -1,0 +1,14 @@
+Compozitors:        Browsers:         wigets:
+  1.Dwl               1.Firefox         1.eww
+  2.Cage              2.vivaldi         2.quickshell
+  3.Enlighment        3.Brave
+  4.Kiwimi            4.Zen Browser
+  5.LabWC             
+  6.Liri
+  7.River
+  8.Sway
+  9.Waybox
+  10.Wayfire
+  11.Niri
+  12.woodland
+  13. fork NeWM
