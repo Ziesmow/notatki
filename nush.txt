@@ -1,0 +1,1 @@
+zamiast używać ls to zrobić alias dla ls i ps oraz innych, "nush in a heart".
